@@ -53,14 +53,14 @@ This tool is useful for:
 ![PDF Report](screenshots/pdf-report-1.png)
 ![PDF Report](screenshots/pdf-report-2.png)
 
-```
+---
 ## CLI Usage
 
 Run a security scan directly from the terminal:
 
 node scanner.js https://Your-Target.com
 
-```
+---
 
 ## Installation
 
