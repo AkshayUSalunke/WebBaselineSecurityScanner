@@ -1,5 +1,8 @@
 # Web Security Baseline Scanner
-
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+![Security Tool](https://img.shields.io/badge/Type-Security%20Scanner-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 Automated Web Security Baseline Scanner for detecting common security misconfigurations and generating professional security reports.
 
 ## Overview
