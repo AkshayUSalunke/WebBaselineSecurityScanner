@@ -40,6 +40,21 @@ This tool is useful for:
 
 ---
 
+## Screenshots
+
+### Scanner Interface
+![Scanner UI](screenshots/scanner-ui.png)
+
+### Scan Results
+![Scan Result](screenshots/scan-result-1.png)
+![Scan Result](screenshots/scan-result-2.png)
+
+### Generated Security Report
+![PDF Report](screenshots/pdf-report-1.png)
+![PDF Report](screenshots/pdf-report-2.png)
+
+```
+
 ## Installation
 
 Clone the repository:
